@@ -1,0 +1,21 @@
+{
+  "name": "skillhire-job-portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamsde75-web/skillhire-job-portal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shivamsde75-web/skillhire-job-portal/issues"
+  },
+  "homepage": "https://github.com/shivamsde75-web/skillhire-job-portal#readme"
+}
